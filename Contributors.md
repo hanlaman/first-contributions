@@ -95,6 +95,7 @@ git add Contributors.md# Contributors
 - [Pablo Andujar](https://github.com/pabloandujar-bahia)
 - Jack Youssef
 - Brooke Smith
+- Hannah Laman 
 Sam Barns
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
 - [Masaki Nishi] (https://github.com/MasakiNishi)
